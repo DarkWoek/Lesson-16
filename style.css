@@ -7,6 +7,7 @@ body{
 }
 ul li:hover{
     background: #000;
+    transition: background .4s linear;
 }
 nav{
     margin-top: 20px;
@@ -26,6 +27,7 @@ li{
     width: 120px;
     align-items: center;
     justify-content: center;
+    transition: background .4s linear;
 }
 a{
     text-decoration: none;
